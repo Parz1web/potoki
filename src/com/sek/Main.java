@@ -10,6 +10,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         //Найти кол-во 2значных
         //com.sek.People name age
+        //
 
         People[] peoples = new People[3];
         peoples[0] = new People("Томас",12);
